@@ -9,7 +9,7 @@ Since I use JetBrains development tools, the .gitignore includes their recommend
 This is based on https://dev.to/chandrapantachhetri/docker-postgres-node-typescript-setup-47db, but I removed the Postgres parts as I won't always want a database for some of my simple projects.
 
 ### Versions
-These versions are not neccessarily required, but are the version that I was using when I created this repository:
+These versions are not necessarily required, but are the version that I was using when I created this repository:
 - Node >= 18.8.0
 - docker compose >= 2.29.7
 
