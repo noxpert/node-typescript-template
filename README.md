@@ -19,6 +19,10 @@ After checking out this repo, switch to above version(s).
 
 `nvm use 18`
 
+Install npm packages:
+
+`npm install`
+
 Run locally:
 
 `npm run dev`
